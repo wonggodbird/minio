@@ -1,4 +1,4 @@
-#include <NewPing.h>
+//#include <NewPing.h>
 
 // กำหนดโน้ตเสียง (ค่าความถี่ใน Hz)
 #define NOTE_C4  262 // C4
